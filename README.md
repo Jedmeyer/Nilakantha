@@ -22,3 +22,4 @@ Use `./Nila` in the console to run. `Nila` accepts one argument - the number of 
 # Iteration: 391125 of 1e+08
 # [>                                                                     ] 0 %
 # Pi: 3.1415926535897932384626395319029935820014106877588426296528817871294269909633926426581827746218309629
+```
